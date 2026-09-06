@@ -1,6 +1,6 @@
 export const API_BASE_URL =
   import.meta.env.VITE_API_BASE_URL ||
-  "https://a18f-116-74-158-243.ngrok-free.app/api/v1";
+  "https://d375-116-74-236-48.ngrok-free.app/api/v1";
   // https://a18f-116-74-158-243.ngrok-free.app
 const getHeaders = () => {
   const token = localStorage.getItem("lab_token");
