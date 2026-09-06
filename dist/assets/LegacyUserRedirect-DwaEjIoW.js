@@ -1,0 +1,1 @@
+import{f as a,j as t,U as r}from"./index-jIxvR0va.js";import{e as s}from"./patientRef-Bzz0Gxe2.js";const n=()=>{const{id:e}=a();return e?t.jsx(r,{to:`/patient/${s(e)}`,replace:!0}):t.jsx(r,{to:"/patients",replace:!0})};export{n as default};
